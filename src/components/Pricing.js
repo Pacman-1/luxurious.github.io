@@ -25,7 +25,7 @@ function Pricing() {
                             <h4>$8.99</h4>
                             <p>per month</p>
                             <ul className="pricing__container-features">
-                                <li>1000 Transactions</li>
+                                <li>500 Transactions</li>
                                 <li>3% Cash Back</li>
                                 <li>$5000 Limit</li>
                             </ul>
@@ -46,7 +46,7 @@ function Pricing() {
                                 <li>4% Cash Back</li>
                                 <li>$25,000 Limit</li>
                             </ul>
-                            <Button buttonSize="btn--wide" buttonColor="primary">Choose Plan</Button>
+                            <Button buttonSize="btn--wide" buttonColor="red">Choose Plan</Button>
                         </div>
                     </Link>
 
